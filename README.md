@@ -24,7 +24,7 @@ Setup a PHP environment and put the SinglePHPProxy.php in the web folder (The fi
 
 ## TODO list:
 
-- CSRF protection;
+- SSRF protection;
 
 - Supporting POST method;
 
