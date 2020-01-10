@@ -1,5 +1,7 @@
 # Single PHP Proxy
 
+**A messy PHP script with no security enhancement. USE AT YOUR OWN RISK!**
+
 Single-file web proxy application with full features in PHP.
 
 ## Configuration:
