@@ -1,4 +1,4 @@
-1<?php
+<?php
 $TEMP_DIR='temp';
 if(!file_exists ($TEMP_DIR)){
   mkdir("$TEMP_DIR", 0777, true);
